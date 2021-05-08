@@ -6,11 +6,11 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 ## Projects
 
 ## Skills
-* Language: Python, SQL, Javascript, Dart
-* Cloud: GCP, Azure, AWS
-* Libraries & Framework: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy, Flutter
-* Dashboarding: Tableau, PowerBI
-* Others: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
+* **Language**: Python, SQL, Javascript, Dart
+* **Cloud**: GCP, Azure, AWS
+* **Libraries & Framework**: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy, Flutter
+* **Dashboarding**: Tableau, PowerBI
+* **Others**: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
 
 ## Interesting Trivia About Me
 * I was born on the same day as USA's first president. 
