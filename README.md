@@ -13,8 +13,6 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 * **Others**: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
 
 ## Interesting Trivia About Me
-* I was born on the same day as USA's first president. 
-* I was born in the same place as India's first president.
 * I want to learn 🕺 Dabke and 🥋 Jiu-jitsu.
 * I have started a startup which didn't work out. 🤷‍♂️
 * I can cook amazing Dal Khichdi. 🥘
