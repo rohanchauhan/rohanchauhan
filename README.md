@@ -19,6 +19,7 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 
 ## Favourite Section
 * ⭐ **series**: *The Mandalorian*
+* 🦹🏼‍♂️ **song**: *Somebody That I Used To Know*
 * 🎥 **movie genre**: *Horror[A24], Sci-fi*
 * 🎵 **music genre**: *Instrumental*
 * 🎮 **games genre**: *RTS, RPG*
