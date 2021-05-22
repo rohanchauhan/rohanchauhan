@@ -14,7 +14,6 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 
 ## Interesting Trivia About Me
 * I want to learn 🕺 Dabke and 🥋 Jiu-jitsu.
-* I have started a startup which didn't work out. 🤷‍♂️
 * I can cook amazing Dal Khichdi. 🥘
 
 ## Favourite Section
