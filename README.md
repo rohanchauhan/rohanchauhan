@@ -18,7 +18,6 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 
 ## Favourite Section
 * ⭐ **series**: *The Mandalorian, Chernobyl, Scam 1992*
-[//]: <> (* 🦹🏼‍♂️ **song**: *Somebody That I Used To Know, Let Her Go, Thinking Out Loud..*)
 * 🎥 **movie genre**: *Horror[A24] - Hereditary, Midsommar.. Sci-fi - Matrix, Interstellar, Edge of Tomorrow..*
 * 🎵 **music genre**: *Instrumental, Dubstep, Colombian..*
 * 🎮 **games genre**: *RTS - Battle Realms, AOE, Sins of Solar Empire.. RPG - Witcher, Mass Effect, Dragon Age..*
