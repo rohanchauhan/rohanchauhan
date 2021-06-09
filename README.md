@@ -16,7 +16,7 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 * I want to learn 🕺 Dabke and 🥋 Jiu-jitsu.
 * I can cook amazing Dal Khichdi. 🥘
 
-## Favourite Section
+### Favourite Section
 * ⭐ **series**: *The Mandalorian, Chernobyl, Scam 1992...*
 * 🎥 **movie genre**: *Horror[A24] - Hereditary, Midsommar.. Sci-fi - Matrix, Interstellar, Edge of Tomorrow..*
 * 🎮 **games genre**: *RTS - Battle Realms, AOE, Sins of Solar Empire.. RPG - Witcher, Mass Effect, Dragon Age..*
