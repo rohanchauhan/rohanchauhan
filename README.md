@@ -1,5 +1,5 @@
 # नमस्ते 🙏
-I am Rohan. I graduated with a masters in machine learning from Aalto University in Finland. After graduation, I worked as a technical project manager at a startup. 
+I am Rohan. I graduated with a masters in machine learning from Aalto University in Finland. After graduation, I worked as a data scientist & technical project manager at a startup. 
 
 Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/rohan22/)**.
 
