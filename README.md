@@ -3,18 +3,12 @@ I am Rohan. I graduated with a masters in machine learning from Aalto University
 
 Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/rohan22/)**.
 
-## Projects
-
 ## Skills
 * **Language**: Python, SQL, Javascript, Dart
 * **Cloud**: GCP, Azure, AWS
 * **Libraries & Framework**: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy, Flutter
 * **Dashboarding**: Tableau, PowerBI
 * **Others**: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
-
-## Interesting Trivia About Me
-* I want to learn 🕺 Dabke and 🥋 Jiu-jitsu.
-* I can cook amazing Dal Khichdi. 🥘
 
 ### Favourite Section
 * ⭐ **series**: *The Mandalorian, Chernobyl, Scam 1992...*
