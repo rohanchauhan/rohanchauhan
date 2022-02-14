@@ -4,7 +4,7 @@ I am Rohan. I graduated with a masters in machine learning from Aalto University
 Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/rohan22/)**.
 
 ## Skills
-* **Language**: Python, SQL, Javascript, Dart
+* **Language**: Python, SQL, Javascript
 * **Cloud**: GCP, Azure, AWS
 * **Libraries & Framework**: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy
 * **Dashboarding**: Tableau, PowerBI
