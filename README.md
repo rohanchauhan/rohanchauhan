@@ -10,10 +10,10 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 * **Dashboarding**: Tableau, PowerBI
 * **Others**: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
 
-### Favourite Section
-* ⭐ **series**: *The Mandalorian, Chernobyl, Scam 1992...*
+### Favourite 
+* ⭐ **series**: *The Mandalorian, Succession, Chernobyl, Scam 1992...*
 * 🎶 **music**: Hans Zimmer, Ludwig Göransson....*
-* 🎥 **movie genre**: *Horror[A24] - Hereditary, Midsommar.. Sci-fi - Matrix, Interstellar, Edge of Tomorrow..*
-* 🎮 **games genre**: *RTS - Battle Realms, AOE, Sins of Solar Empire.. RPG - Witcher, Mass Effect, Dragon Age..*
+* 🎥 **movies**: *Horror[A24] - Hereditary, Midsommar.. Sci-fi - Matrix, Interstellar, Edge of Tomorrow..*
+* 🎮 **games**: *RTS - Battle Realms, AOE, Sins of Solar Empire.. RPG - Witcher, Mass Effect, Dragon Age..*
 
 ![](https://komarev.com/ghpvc/?username=rohanchauhan&color=ff69b4)
