@@ -6,9 +6,9 @@ Contact me through **[Email](rohanchauhan22@gmail.com)** or **[LinkedIn](https:/
 ## Skills
 * **Language**: Python, SQL, Javascript, Dart
 * **Cloud**: GCP, Azure, AWS
-* **Libraries & Framework**: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy, Flutter
+* **Libraries & Framework**: Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Tensorflow, Keras, Pytorch, Open AI gym, Networkx, NLTK, Airflow, Flask, Django, PyMC3, GPy
 * **Dashboarding**: Tableau, PowerBI
-* **Others**: Linux, Docker, Kubernetes, Git, MongoDB, Postgresql
+* **Others**: Linux, Docker, Kubernetes, Git, 
 
 ### Favourite 
 * ⭐ **series**: *The Mandalorian, Succession, Chernobyl, Scam 1992...*
